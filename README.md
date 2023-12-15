@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jlamsis
 - 👀 I’m interested in web development and programming
-- 🌱 I’m currently learning python and django
-- 💞️ I’m looking to collaborate on python, php and data analysis
+- 🌱 I have knowledge in HTML, CSS, JS and SCSS. 
+- 💞️ I'm interested in learning Python and Data Analysis
 - 📫 How to reach me ...
 
 <!---
